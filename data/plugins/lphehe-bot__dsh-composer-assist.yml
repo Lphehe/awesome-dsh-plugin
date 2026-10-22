@@ -1,0 +1,6 @@
+url: https://github.com/lphehe-bot/dsh-composer-assist
+name: lphehe-bot/dsh-composer-assist
+category: ui
+description:
+  en: "Predicts your next message in the DSH composer, completes a draft as you type, and rewrites a prompt for clarity on demand. Suggestions stay with their conversation across session switches, exactly one request is made per finished turn, and nothing is written to the session log."
+  zh: "在 DSH 输入框上方预测你下一步想输入的内容，输入时补全草稿，并可一键把提示词改写成更清晰的指令。建议跟着会话保存，切换对话再切回不会丢失；每轮回答结束只预测一次；不写入会话日志。"
