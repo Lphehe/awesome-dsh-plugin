@@ -1,0 +1,6 @@
+url: https://github.com/lphehe-bot/dsh-composer-assist
+name: lphehe-bot/dsh-composer-assist
+category: usage
+description:
+  en: Predicts the user's next message above the composer after each finished turn, with multiple candidates, draft completion while typing, and on-demand prompt rewriting; Tab accepts, and suggestions are kept per session.
+  zh: 每轮回答结束后在输入框上方预测你的下一条消息，支持多条候选、输入时补全草稿与一键改写提示词；Tab 接受，候选按会话保留。
